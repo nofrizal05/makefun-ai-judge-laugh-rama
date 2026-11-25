@@ -1,8 +1,8 @@
 # Make the AI Judge Laugh
 
-![Make.fun](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825.svg)
-![Rank](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825/rank.svg)
-![Reward](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825/reward.svg)
+[![make.fun · u-rama-melon-make-the-ai-judge-laugh-302d0825](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825?utm_source=github&utm_medium=readme&utm_campaign=u-rama-melon-make-the-ai-judge-laugh-302d0825)
+[![rank](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825/nofrizal05/makefun-ai-judge-laugh-rama/rank.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-rama-melon-make-the-ai-judge-laugh-302d0825)
+[![reward](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825/nofrizal05/makefun-ai-judge-laugh-rama/reward.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825?utm_source=github&utm_medium=readme&utm_campaign=u-rama-melon-make-the-ai-judge-laugh-302d0825)
 
 > The judge read my joke, laughed so hard it crashed, then deducted points — turns out the funniest thing in my entry was me trusting an AI to judge humour.
 
